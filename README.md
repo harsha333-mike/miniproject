@@ -1,2 +1,2 @@
 # miniproject
-easy doctor online suggesion
+Easy doctor online suggesion
